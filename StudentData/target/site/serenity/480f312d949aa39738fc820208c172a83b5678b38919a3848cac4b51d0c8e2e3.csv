@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student CRUD test","This test will create a new student","SUCCESS","2023-09-30T18:45:58.333+05:30[Asia/Calcutta]","0.0","2.99"
+"Student CRUD test","Verify if the Student was added to the application","SUCCESS","2023-09-30T18:46:01.358+05:30[Asia/Calcutta]","0.0","1.11"
+"Student CRUD test","Update the user information and verify the user information","SUCCESS","2023-09-30T18:46:02.473+05:30[Asia/Calcutta]","0.0","0.16"
+"Student CRUD test","Delete the information of the student","SUCCESS","2023-09-30T18:46:02.638+05:30[Asia/Calcutta]","0.0","0.04"

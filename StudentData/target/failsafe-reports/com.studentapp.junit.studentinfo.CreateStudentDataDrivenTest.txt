@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentinfo.CreateStudentDataDrivenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.515 s <<< FAILURE! - in com.studentapp.junit.studentinfo.CreateStudentDataDrivenTest
+com.studentapp.junit.studentinfo.CreateStudentDataDrivenTest.initializationError  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.IllegalArgumentException: No test data file found for path: testdata\student.csv
+

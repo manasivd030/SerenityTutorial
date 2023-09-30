@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This is a skipped tests","IGNORED","2023-09-30T18:45:58.305+05:30[Asia/Calcutta]","0.0","0.02"
+"First serenity test","This is a manual test","PENDING","2023-09-30T18:45:58.348+05:30[Asia/Calcutta]","0.0","0.0"
+"First serenity test","This is a file not found test","COMPROMISED","2023-09-30T18:45:58.353+05:30[Asia/Calcutta]","0.0","0.03"
+"First serenity test","This is a test with error","ERROR","2023-09-30T18:45:58.381+05:30[Asia/Calcutta]","0.0","0.01"
+"First serenity test","This is a pending tests","PENDING","2023-09-30T18:45:58.387+05:30[Asia/Calcutta]","0.0","0.0"
+"First serenity test","Get all students","SUCCESS","2023-09-30T18:45:58.389+05:30[Asia/Calcutta]","0.0","2.74"
+"First serenity test","This is a failing tests","FAILURE","2023-09-30T18:46:01.126+05:30[Asia/Calcutta]","0.0","0.11"

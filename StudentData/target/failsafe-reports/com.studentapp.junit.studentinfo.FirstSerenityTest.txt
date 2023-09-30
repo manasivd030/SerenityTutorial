@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.studentinfo.FirstSerenityTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 2, Skipped: 3, Time elapsed: 5.114 s <<< FAILURE! - in com.studentapp.junit.studentinfo.FirstSerenityTest
+com.studentapp.junit.studentinfo.FirstSerenityTest.thisIsAFileNotFoundTest  Time elapsed: 0.009 s  <<< ERROR!
+java.io.FileNotFoundException: X:\File.text (The system cannot find the path specified)
+	at com.studentapp.junit.studentinfo.FirstSerenityTest.thisIsAFileNotFoundTest(FirstSerenityTest.java:78)
+
+com.studentapp.junit.studentinfo.FirstSerenityTest.thisIsATestWithError  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.studentapp.junit.studentinfo.FirstSerenityTest.thisIsATestWithError(FirstSerenityTest.java:70)
+
+com.studentapp.junit.studentinfo.FirstSerenityTest.thisIsAFailingTests  Time elapsed: 0.107 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <500> but was <200>.
+
+	at com.studentapp.junit.studentinfo.FirstSerenityTest.thisIsAFailingTests(FirstSerenityTest.java:47)
+
