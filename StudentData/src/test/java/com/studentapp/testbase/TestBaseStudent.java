@@ -8,7 +8,7 @@ public class TestBaseStudent {
 	@BeforeClass
 	public static void init()
 	{
-		RestAssured.baseURI = "http://localhost:8080/student";
+		RestAssured.baseURI = "http://localhost:8085/student";
 		
 	}
 
